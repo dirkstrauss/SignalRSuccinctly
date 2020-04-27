@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realtimechat", "realtimechat\realtimechat.csproj", "{88F19455-E66F-4584-98A4-A9E7A65FAC15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "realtimechat", "realtimechat\realtimechat.csproj", "{88F19455-E66F-4584-98A4-A9E7A65FAC15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realtimechart", "realtimechart\realtimechart.csproj", "{3B3141A3-34D5-4B25-A580-6B8359BFBEEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{88F19455-E66F-4584-98A4-A9E7A65FAC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88F19455-E66F-4584-98A4-A9E7A65FAC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88F19455-E66F-4584-98A4-A9E7A65FAC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3141A3-34D5-4B25-A580-6B8359BFBEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3141A3-34D5-4B25-A580-6B8359BFBEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3141A3-34D5-4B25-A580-6B8359BFBEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3141A3-34D5-4B25-A580-6B8359BFBEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
